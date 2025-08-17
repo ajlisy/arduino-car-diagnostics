@@ -1,0 +1,36 @@
+# Arduino build files
+*.elf
+*.bin
+*.map
+*.hex
+*.eep
+*.lss
+*.sym
+*.a
+*.o
+*.d
+
+# Arduino IDE files
+.vscode/
+.arduino15/
+*.ino.bak
+
+# Configuration files with sensitive data
+config.h
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
